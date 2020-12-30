@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
+
+
 namespace MovementScript
 {
     class Grid3D
@@ -19,8 +21,9 @@ namespace MovementScript
 
         public Player Player { get; set; }
 
-        public Grid3D()
+        public Grid3D() : base()
         {
+        
             Components = new List<GameComponent>();
             Player = new Player(500, 500, 0);
         }

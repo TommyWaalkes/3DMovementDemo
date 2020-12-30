@@ -40,9 +40,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Xamarin.Forms": {
+            "OpenTk": {
               "target": "Package",
-              "version": "[4.8.0.1821, )"
+              "version": "[3.3.1, )"
             }
           },
           "imports": [

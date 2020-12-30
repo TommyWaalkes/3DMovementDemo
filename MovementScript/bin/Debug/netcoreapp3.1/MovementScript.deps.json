@@ -8,25 +8,17 @@
     ".NETCoreApp,Version=v3.1": {
       "MovementScript/1.0.0": {
         "dependencies": {
-          "Xamarin.Forms": "4.8.0.1821"
+          "OpenTK": "3.3.1"
         },
         "runtime": {
           "MovementScript.dll": {}
         }
       },
-      "Xamarin.Forms/4.8.0.1821": {
+      "OpenTK/3.3.1": {
         "runtime": {
-          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "4.8.0.410"
-          },
-          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "4.8.0.410"
-          },
-          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "4.8.0.410"
+          "lib/net20/OpenTK.dll": {
+            "assemblyVersion": "3.3.1.0",
+            "fileVersion": "3.3.1.0"
           }
         }
       }
@@ -38,12 +30,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Xamarin.Forms/4.8.0.1821": {
+    "OpenTK/3.3.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-3e/5DwE/bExRLtM1tA3iI9E6TCnIF+e9+lINgwLOUs0g49ebFmQiNDXBKb06jmqqV4VyNaUGZqs0bI13ruv8bQ==",
-      "path": "xamarin.forms/4.8.0.1821",
-      "hashPath": "xamarin.forms.4.8.0.1821.nupkg.sha512"
+      "sha512": "sha512-vJ00JIs0EOEhqU3+1w6ocurNUFaewd7YXV8sixI029AQeQaht0QjDGgXm2Fk/y8A5Wtx6UsmrjJDKi4USoVeSg==",
+      "path": "opentk/3.3.1",
+      "hashPath": "opentk.3.3.1.nupkg.sha512"
     }
   }
 }

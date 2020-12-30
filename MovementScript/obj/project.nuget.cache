@@ -1,10 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "s1K2Zw0L5IiUxLTK+5qSeK5zVAcBUsH7d28ZU7+rxVTWByVSz20d+iVfalAOz4kqYBkhjh9nOjfV7agaTVMmLQ==",
+  "dgSpecHash": "YEudLOu1HI3ln1uw5yXD8pW8nG6ZWNNN+sqKJuJsWeNqivf4zGgLo80Pzbhuh7KpH8F6STAD04/0F09xrsDeoA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tommy\\Desktop\\Unreal Code\\MovementScript\\MovementScript\\MovementScript.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Tommy\\.nuget\\packages\\xamarin.forms\\4.8.0.1821\\xamarin.forms.4.8.0.1821.nupkg.sha512"
+    "C:\\Users\\Tommy\\.nuget\\packages\\opentk\\3.3.1\\opentk.3.3.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenTK 3.3.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "OpenTK",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
