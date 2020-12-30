@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s1K2Zw0L5IiUxLTK+5qSeK5zVAcBUsH7d28ZU7+rxVTWByVSz20d+iVfalAOz4kqYBkhjh9nOjfV7agaTVMmLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tommy\\Desktop\\Unreal Code\\MovementScript\\MovementScript\\MovementScript.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tommy\\.nuget\\packages\\xamarin.forms\\4.8.0.1821\\xamarin.forms.4.8.0.1821.nupkg.sha512"
+  ],
+  "logs": []
+}
